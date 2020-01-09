@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_message">Xin chao!</string>
+    <button name="ButtonText">I\’m a button</button>
+</resources>
